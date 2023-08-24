@@ -1,1 +1,1 @@
-# pset2
+# pset2-cs50x-Solution
